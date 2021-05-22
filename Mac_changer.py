@@ -7,7 +7,7 @@
 # ||   Zubair     ||
 # ||   *******    ||
 # ||==============||
-#/usr/bin/env python # Shang
+#/usr/bin/env python # Shabang
 import subprocess #import module suprocess --> For execute commands
 import optparse   #import module optparse  --> for getting arguments from user
 import re         #import module re        --> regular expression 
